@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="mini regression">
+    <!-- Farkli pacjage ve classlar altindaki 5 test methodu calistiracagiz.
+    Eger istenen method'larin tek tek xml dosyasina islenmesi uzun uzun olacaksa
+    calistirilacak methodlara ortak bir @istenen tag eklenip xml dosyasinda bunlari claistir diyebiliriz.
+    -->
+
+
+</suite>
