@@ -1,5 +1,6 @@
 package tests.day10_TestNG_Framework;
 
+
 import com.github.javafaker.Faker;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -9,7 +10,7 @@ import utilities.ReusableMethods;
 
 public class C04_FacebookLogin {
 
-    @Test
+    @Test(groups = "smoke")
     public void facebookTesti(){
         FacebookPage facebookPage= new FacebookPage();
         //1 - https://www.facebook.com/ adresine gidin

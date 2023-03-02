@@ -1,25 +1,20 @@
 package tests.day10_TestNG_Framework;
 
+
     /*
     Test Cesitleri;
     === uniqe test bizimle ilgil degil developerlar yapiyor.===
     Smoke test
     Regression Test==(Butun Testlerin calismasidir. 20.bin testi ayni anda calistirmak istemeuebiliriz. mini regression testleri yapariz.
     EndToEmd E2E
-
     Test Suite : Birden Fazla Testin bir amac icin biraaraya getirilmesidir.
     Test: bir amac icin bir araya getirilmis test methodlari, class'lari veya
         /ve packagelari icerir.
-
-
-
      Test hiyerarsisi:
      -Suit
      -test
      -groups,packages,classes,methods
-
          Ornek Hiyerarsi:
-
         Before Suite
         Before Test
         before Class
@@ -97,4 +92,3 @@ public class C03_BeforeAfterNotasyonlari {
 
 
 }
-

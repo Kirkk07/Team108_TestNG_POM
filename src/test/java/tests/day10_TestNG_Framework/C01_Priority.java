@@ -1,6 +1,7 @@
 package tests.day10_TestNG_Framework;
 
 
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.checkerframework.checker.units.qual.C;
 import org.openqa.selenium.WebDriver;
@@ -65,3 +66,4 @@ public class C01_Priority {
 
 
 }
+
